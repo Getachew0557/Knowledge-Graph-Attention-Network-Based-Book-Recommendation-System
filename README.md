@@ -57,7 +57,7 @@ The purpose of a recommendation system basically is to search for content that w
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest.
 here is a demo,
 
-* [Click here to run it live on server](https://book-recommendation45.herokuapp.com/)
+* [Click here to run it live on server](https://getachew0557-knowledge-graph-attention-network-based-app-q5zdkw.streamlit.app/)
 
 
 # Demo:
