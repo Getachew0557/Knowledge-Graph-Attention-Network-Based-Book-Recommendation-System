@@ -1,6 +1,6 @@
-# Project: Book Recommender System Using Machine Learning! | Collaborative Filtering Based
+# Project: Knowledge Graph Attention Network Based Book Recommendation System
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
+<img src="demo/workflow4.png" alt="workflow" width="70%">
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
