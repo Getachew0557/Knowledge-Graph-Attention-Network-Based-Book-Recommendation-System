@@ -42,7 +42,7 @@ class KGAT(nn.Module):
         return scores
 
 # Load artifacts
-st.header('Book Recommender System Using KGAT')
+st.header('KGAT Based Book Recommender System ')
 try:
     model_state = pickle.load(open('artifacts/kgat_model.pkl', 'rb'))
     user_encoder = pickle.load(open('artifacts/user_encoder.pkl', 'rb'))

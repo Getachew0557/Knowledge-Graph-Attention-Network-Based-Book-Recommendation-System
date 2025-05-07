@@ -62,11 +62,11 @@ here is a demo,
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
+<img src="demo/workflow.png" alt="workflow" width="70%">
 
-<img src="demo/2.png" alt="workflow" width="70%">
+<img src="demo/workflow.png" alt="workflow" width="70%">
 
-<img src="demo/3.png" alt="workflow" width="70%">
+<img src="demo/workflow.png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
@@ -98,7 +98,7 @@ https://github.com/Getachew0557/KGAT-Based-Book-Recommendation.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n books python=3.7.10 -y
+conda create -n books python=3.12 -y
 ```
 
 ```bash
@@ -111,11 +111,6 @@ conda activate books
 pip install -r requirements.txt
 ```
 
-
-```bash
-#run this file to generate the models
-
-Books Recommender.ipynb
 ```
 
 Now run,
